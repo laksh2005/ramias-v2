@@ -15,7 +15,7 @@ const ScrollingText = () => {
 
   return (
     <div className="scrolling-text text-sm font-medium w-full md:w-auto overflow-hidden whitespace-nowrap box-border animate-[scroll-left_10s_linear_infinite]">
-      <a href="#" className="text-white hover:text-yellow-500 transition">
+      <a href="https://ramias.co.in/" className="text-white hover:text-yellow-500 transition">
         New Batches Starting Soon! Enroll now at the best IAS academy in Gurgaon for unmatched
         guidance and results. Call 7419998920 to secure your spot! 📞
       </a>
@@ -43,7 +43,7 @@ const NavBar = () => {
 
           <div className="flex items-center justify-center px-40 space-x-4">
             <a
-              href="#"
+              href="https://ramias.co.in/"
               className="bg-yellow-500 text-black font-semibold text-sm py-2 px-6 rounded-full hover:bg-orange-600 transition"
             >
               ANNOUNCEMENTS
