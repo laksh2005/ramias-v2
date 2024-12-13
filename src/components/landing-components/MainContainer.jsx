@@ -1,4 +1,3 @@
-import React from 'react'
 import { MAIN_PIC } from '../../utils/constants';
 import { Link } from 'react-router-dom';
 import { ArrowRight } from 'lucide-react';
